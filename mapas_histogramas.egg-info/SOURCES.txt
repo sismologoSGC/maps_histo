@@ -1,0 +1,11 @@
+setup.py
+mapas_histogramas/__init__.py
+mapas_histogramas/funcion_mapa.py
+mapas_histogramas/graficar.py
+mapas_histogramas/histogramas.py
+mapas_histogramas/mapa_kml.py
+mapas_histogramas/selec_SCPySIS.py
+mapas_histogramas.egg-info/PKG-INFO
+mapas_histogramas.egg-info/SOURCES.txt
+mapas_histogramas.egg-info/dependency_links.txt
+mapas_histogramas.egg-info/top_level.txt
